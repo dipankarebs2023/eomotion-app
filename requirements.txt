@@ -1,4 +1,3 @@
-pip==23.1.2
 tensorflow==2.12.0
 tensorflow-estimator==2.12.0
 tensorflow-io-gcs-filesystem==0.32.0
